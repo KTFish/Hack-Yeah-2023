@@ -1,10 +1,5 @@
 # Hack-Yeah-2023
-Repository for the project of AllensteinSQL team.
 
-### About the project
-
-TODO: Describe what is the aim of the project.
-
-### Our Solution
-
-Description of the final solution and troubleshooting.
+### Łączenie danych
+W projekcie połączyliśmy kilka różnych źródeł danych:
+- Wyniki_e8_szkoly_2022 
