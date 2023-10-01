@@ -1,2 +1,5 @@
 # Hack-Yeah-2023
-Repository for the project of AllensteinSQL team.
+
+### Łączenie danych
+W projekcie połączyliśmy kilka różnych źródeł danych:
+- Wyniki_e8_szkoly_2022 
