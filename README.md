@@ -40,6 +40,7 @@ W projekcie połączyliśmy kilka różnych źródeł danych:
 - Staniny
 - SIO 30.09.2021
 - SIO uczniowie
+- Sprawozdania finansowe (dochody, wydataki)
 Dane zostały połączone po REGONIE lub nazwie szkoły w zależności od tabeli (schemat łączenia tabel w prezentacji).
 
 ### **Podsumowanie:**
