@@ -3,6 +3,7 @@
 Aplikacja Rosaline jest innowacyjnym narzędziem analitycznym opartym na technologii Power BI od Microsoft, zapewniając użytkownikom elastyczność i dostosowanie do różnych wymagań. Użytkownik nie musi posiadać umiejętności programowania, co sprawia, że manipulowanie i dostosowywanie aplikacji do indywidualnych potrzeb jest łatwe i przyjemne.
 
 **Zobacz prezentację i zrozum naszą perspektywę:** [link](https://www.canva.com/design/DAFv9OJrTUc/d2J640-lu7I1MGgXTRe53g/view?utm_content=DAFv9OJrTUc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) 
+
 **Przetestuj naszą aplikację w praktyce:** [link](https://allensteinsql.powerappsportals.com/)
 
 
